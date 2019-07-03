@@ -1,5 +1,5 @@
 # awesome-stickers
-A collection of scanned Hacker / Information Security / DevOps Stickers from various conferences
+A collection of scanned Hacker / Information Security / DevOps Stickers from various conferences.
 
 ## Contributing
 Please provide pictures of stickers with a minimum 300dpi image (higher resolutions greatly appreciated). You do not need to photoshop the background out from your submission, but doing so is greatly appreciated!
