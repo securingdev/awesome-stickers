@@ -41,5 +41,5 @@ As always, your contributions are awesome and try your best to include as much i
 * Organization: [OWASP](https://github.com/securingdev/awesome-stickers/tree/master/raw/OWASP)
     * Chapter: [OWASP Portland](https://github.com/securingdev/awesome-stickers/tree/master/raw/OWASP/OWASP%20Portland)
       * Event: [OWASP Training Day](https://github.com/securingdev/awesome-stickers/tree/master/raw/OWASP/OWASP%20Portland/OWASP%20Training%20Day)
-        * Year: [OWASP Training Day](https://github.com/securingdev/awesome-stickers/tree/master/raw/OWASP/OWASP%20Portland/OWASP%20Training%20Day/2019)
+        * Year: [2019](https://github.com/securingdev/awesome-stickers/tree/master/raw/OWASP/OWASP%20Portland/OWASP%20Training%20Day/2019)
 * Event: [ToorCon](https://github.com/securingdev/awesome-stickers/tree/master/raw/Toorcon)
