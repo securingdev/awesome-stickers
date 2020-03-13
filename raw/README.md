@@ -43,3 +43,6 @@ As always, your contributions are awesome and try your best to include as much i
       * Event: [OWASP Training Day](https://github.com/securingdev/awesome-stickers/tree/master/raw/OWASP/OWASP%20Portland/OWASP%20Training%20Day)
         * Year: [2019](https://github.com/securingdev/awesome-stickers/tree/master/raw/OWASP/OWASP%20Portland/OWASP%20Training%20Day/2019)
 * Event: [ToorCon](https://github.com/securingdev/awesome-stickers/tree/master/raw/Toorcon)
+* Organization: [2600](https://github.com/securingdev/awesome-stickers/tree/master/raw/2600)
+* Source: [Sticker Mail](https://github.com/securingdev/awesome-stickers/tree/master/raw/Sticker%20Mail)
+  * Sender: [Spoke - @ninjalie](https://github.com/securingdev/awesome-stickers/tree/master/raw/Sticker%20Mail/Spoke)
